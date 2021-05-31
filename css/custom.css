@@ -1,0 +1,43 @@
+/******************************************
+ CUSTOM STYLESHEET
+*******************************************/
+
+/*
+* You can place your custom CSS statements in this file, after this message.
+* It is better to write everything custom here
+* because this file won't be replaced during updates.
+*
+* Simply copy an existing style from style.css to this file,
+* and modify it to your liking.
+*/
+
+
+
+/*Site description*/
+.navbar-brand .tagline {
+    color: #265480;
+}
+
+/*Borders menu*/
+.main-navbar {
+    border-top: 1px solid #CCC;
+    border-bottom: 1px solid #CCC;
+}
+
+/*Top Menu font size*/
+.top-navbar a {
+    font-size: 14px;
+}
+
+/*Menu item coca-cola*/
+.cola_red {
+    background: #ff0000;
+    border-radius: 6px;
+}
+
+.cola_red a {
+	color:#FFFFFF;
+}
+.cola_red a:hover {
+	color:#FFFFFF !important;
+}
